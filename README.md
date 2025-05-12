@@ -21,6 +21,7 @@ This integrated platform combines advanced facial recognition technology with a 
 - **Request Workflow:** Streamlined process for applying, approving, and rejecting leave requests
 - **Leave Balance Tracking:** Automatic calculation of remaining leave days
 - **History Logs:** Complete records of leave applications and their status
+- **Email Notifications:** Automated emails for leave request updates and approvals
 
 ### User Management
 
